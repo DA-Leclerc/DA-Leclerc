@@ -1,84 +1,34 @@
-# Bonjour / Hello 👋 I'm Dominic-André Leclerc
+# Dominic-Andre Leclerc
 
-**Conseiller en intégration et conformité IA | AI Integration & Compliance Advisor**
+**Founder, Nord Paradigm AI** | AI Governance & Responsible Adoption Advisor
 
-Ancien adjudant des Forces armées canadiennes (21 ans) reconverti dans l'intelligence artificielle. Je combine mon expertise en audit qualité (AF9000+) et en instruction avec une passion pour l'IA responsable.
+I spent 21 years in the Canadian Armed Forces working on CF-188 avionics, running quality audits (AF9000+ Lead Auditor), and leading instruction teams. Now I'm applying that systems-thinking background to AI governance.
 
-*Former Canadian Armed Forces Warrant Officer (21 years) who turned to artificial intelligence. I combine quality audit expertise (AF9000+) and instruction background with a passion for responsible AI.*
+## What I'm working on
 
----
+**Nord Paradigm AI** is my consultancy focused on helping organizations adopt AI responsibly. I work on governance auditing, ISO/IEC 42001 compliance, and practical AI adoption strategies for Quebec and Canadian organizations.
 
-### 🔭 What I'm working on
-- Building local AI agents for research and automation (OpenClaw)
-- Exploring AI governance frameworks for organizations
-- Studying AI ethics (University of Helsinki)
-- Developing AI adoption tools and workflows
+**OpenClaw** is a six-agent autonomous AI ecosystem I built on local infrastructure in one week, starting from zero. It includes agents for investment research, opportunity scanning, security analysis (fully sandboxed), and family use. It's my daily operations platform and a constant source of learning about how AI systems actually behave in production.
 
-### 🛠️ Tech & Tools
-- **AI Platforms:** Claude (Anthropic), OpenClaw, local LLMs
-- **Languages:** Python (learning), Markdown, YAML
-- **Tools:** Git, Linux, Docker
-- **Domain expertise:** Quality management systems (AF9000+/ISO 9001), AI governance, instructional design
+## Projects
 
-### 🌱 Currently learning
-- AI ethics and governance (University of Helsinki)
-- Python for AI automation
-- Prompt engineering and agent orchestration
-- ISO/IEC 42001 (AI Management Systems)
+- **[AI Readiness Assessment](https://github.com/DA-Leclerc/ai-readiness-assessment)** - A 6-domain maturity framework for evaluating organizational AI readiness. Open source. Currently evolving into an interactive diagnostic tool with editions for SMBs, IT leaders, and compliance teams.
+- **YouTube Transcript Skill** - Hybrid local inference + anonymized cloud processing (Venice.ai) architecture for privacy-preserving AI research. Powers daily investment research reports through the OpenClaw ecosystem.
 
-### 💼 Background
-- 🎖️ 21 years Canadian Armed Forces — Avionics Technician to Warrant Officer
-- 📋 AF9000+ Lead Quality Auditor — Aircraft maintenance quality systems
-- 👥 Instruction Cell Supervisor — Led 10-person team at CFLRS
-- 🌍 Backpacked around the world with my family (2023-2024)
+## Currently learning
 
-### 📫 How to reach me
-- 📧 domleclerc@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dominic-andré-leclerc-4ab90a250/)
-- 📍 Saguenay, QC, Canada
+- ISO/IEC 42001 Lead Implementer + Lead Auditor (PECB)
+- IAPP AIGP (AI Governance Professional)
+- AI Ethics, University of Helsinki (in progress)
 
-### 🌐 Languages
-- 🇫🇷 Français (langue maternelle)
-- 🇬🇧 English (fully bilingual)
-# Bonjour / Hello 👋 I'm Dominic-André Leclerc
+## Daily tools
 
-**Conseiller en intégration et conformité IA | AI Integration & Compliance Advisor**
+Claude (Max plan, Cowork), Grok, Gemini, OpenClaw, Venice.ai
 
-Ancien adjudant des Forces armées canadiennes (21 ans) reconverti dans l'intelligence artificielle. Je combine mon expertise en audit qualité (AF9000+) et en instruction avec une passion pour l'IA responsable.
+## Get in touch
 
-*Former Canadian Armed Forces Warrant Officer (21 years) pivoting into artificial intelligence. I combine quality audit expertise (AF9000+) and instruction background with a passion for responsible AI.*
+- Blog: [da-leclerc.github.io](https://da-leclerc.github.io)
+- LinkedIn: [linkedin.com/in/dominic-andre-leclerc](https://linkedin.com/in/dominic-andr%C3%A9-leclerc)
+- Email: domleclerc@gmail.com
 
----
-
-### 🔭 What I'm working on
-- Building local AI agents for research and automation (OpenClaw)
-- Exploring AI governance frameworks for organizations
-- Studying AI ethics (University of Helsinki)
-- Developing AI adoption tools and workflows
-
-### 🛠️ Tech & Tools
-- **AI Platforms:** Claude (Anthropic), OpenClaw, local LLMs
-- **Languages:** Python (learning), Markdown, YAML
-- **Tools:** Git, Linux, Docker
-- **Domain expertise:** Quality management systems (AF9000+/ISO 9001), AI governance, instructional design
-
-### 🌱 Currently learning
-- AI ethics and governance (University of Helsinki)
-- Python for AI automation
-- Prompt engineering and agent orchestration
-- ISO/IEC 42001 (AI Management Systems)
-
-### 💼 Background
-- 🎖️ 21 years Canadian Armed Forces — Avionics Technician to Warrant Officer
-- 📋 AF9000+ Lead Quality Auditor — Aircraft maintenance quality systems
-- 👥 Instruction Cell Supervisor — Led 10-person team at CFLRS
-- 🌍 Backpacked around the world with my family (2023-2024)
-
-### 📫 How to reach me
-- 📧 domleclerc@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dominic-andré-leclerc-4ab90a250/)
-- 📍 Saguenay, QC, Canada
-
-### 🌐 Languages
-- 🇫🇷 Français (langue maternelle)
-- 🇬🇧 English (fully bilingual)
+Bilingual French/English | Saguenay, QC
