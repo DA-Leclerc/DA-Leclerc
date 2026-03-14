@@ -1,12 +1,12 @@
 # Dominic-Andre Leclerc
 
-**Founder, Nord Paradigm AI** | AI Governance & Responsible Adoption Advisor
+**AI Governance & Responsible Adoption Advisor**
 
 I spent 21 years in the Canadian Armed Forces working on CF-188 avionics, running quality audits (AF9000+ Lead Auditor), and leading instruction teams. Now I'm applying that systems-thinking background to AI governance.
 
 ## What I'm working on
 
-**Nord Paradigm AI** is my consultancy focused on helping organizations adopt AI responsibly. I work on governance auditing, ISO/IEC 42001 compliance, and practical AI adoption strategies for Quebec and Canadian organizations.
+I'm building a consultancy focused on helping organizations adopt AI responsibly. I work on governance auditing, ISO/IEC 42001 compliance, and practical AI adoption strategies for Quebec and Canadian organizations.
 
 **OpenClaw** is a six-agent autonomous AI ecosystem I built on local infrastructure in one week, starting from zero. It includes agents for investment research, opportunity scanning, security analysis (fully sandboxed), and family use. It's my daily operations platform and a constant source of learning about how AI systems actually behave in production.
 
